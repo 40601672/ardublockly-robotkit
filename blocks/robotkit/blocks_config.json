@@ -1,0 +1,11 @@
+{
+    "categoryName": "RobotKit blocks",
+    "description": "List all blocks for RobotKit.",
+    "languages": ["en", "vi"],
+    "toolboxName": "RobotKit",
+    "toolbox": [
+        "<category>",
+        "  <block type=\"motora\"></block>",
+        "</category>"
+    ]
+}
